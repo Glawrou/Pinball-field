@@ -60,7 +60,10 @@
     <Analyzer Include="E:\Unity\Versions\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Test.cs" />
+    <Compile Include="Assets\Spring\SpringTrigger.cs" />
+    <Compile Include="Assets\Spring\Spring.cs" />
+    <Compile Include="Assets\Camera\CameraFollow.cs" />
+    <Compile Include="Assets\Spring\SpringUpPanel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
